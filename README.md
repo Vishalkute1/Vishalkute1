@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vishalkute1/Vishalkute1/main/assets/banner.png" alt="Vishal Kute - Data | Analytics | AI" width="100%" />
 </p>
+
 - 👋 Hi, I’m Vishal Kute (@Vishalkute1)
 - 👀 I’m interested in Data Analytics, AI, Business Intelligence, and Tech Presales.
 - 💼 I’ve worked on real-world analytics projects including student behavior dashboards and workforce utilization.
