@@ -9,6 +9,9 @@
   
 🔗 Checkout my recent capstone project:
 [Student Survey Power BI Dashboard](https://github.com/Vishalkute1/StudentSurveyCapstone)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishalkute1/Vishalkute1/main/assets/banner.png" alt="Vishal Kute - Data | Analytics | AI" width="100%" />
+</p>
 
 <!---
 Vishalkute1/Vishalkute1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
