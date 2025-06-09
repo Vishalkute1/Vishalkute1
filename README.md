@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Vishal Kute (@Vishalkute1)<br>I’m interested in Data Analytics, AI, Business Intelligence, and Tech Presales.<br>I’ve worked on real-world analytics projects including student behavior dashboards and workforce utilization.<br>I bring a strong mix of technical understanding and business insight — ideal for customer-facing roles.<br>I’m currently deepening my skills in Power BI, Python, SQL, and foundational AI.<br>I’m looking to collaborate on data-driven solutions, client PoCs, and AI-assisted tools.<br>Fun fact: I love transforming raw data into powerful stories that drive business decisions.
+👋 Hi, I’m Vishal Kute (@Vishalkute1)<br>👀 I’m interested in Data Analytics, AI, Business Intelligence, and Tech Presales.<br>💼 I’ve worked on real-world analytics projects including student behavior dashboards and workforce utilization.<br>💡 I bring a strong mix of technical understanding and business insight — ideal for customer-facing roles.<br>🌱 I’m currently deepening my skills in Power BI, Python, SQL, and foundational AI.<br>💞️ I’m looking to collaborate on data-driven solutions, client PoCs, and AI-assisted tools.<br>⚡ Fun fact: I love transforming raw data into powerful stories that drive business decisions.
 
 
 ## 🌐 Socials:
